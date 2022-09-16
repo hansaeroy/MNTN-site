@@ -1,7 +1,4 @@
-## Build A Responsive Adventures Website With HTML, CSS, and JavaScript
+## Website With HTML, CSS, and JavaScript
 
-> Improve your HTML and CSS skills by building a responsive website. After completing this lesson, you will be able to create responsive layouts using Flexbox and Grid.
-
-#### Watch the video [here](https://youtu.be/3-t3Zmtsvb8)
-
-![Project humbnail](/thumbnail.jpg)
+> Flexbox와 Grid를 사용한 반응형 웹사이트를 구축
+> JavaScript를 이용한 Hero 페이지 효과 적용
